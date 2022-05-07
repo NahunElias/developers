@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Juan",
+        "email": "j@gmail.com",
+        "phone": "1280389",
+        "address": "Calle grande",
+        "position": "Norte",
+        "salary": 100,
+        "skills": "respect"
+    },
+    {
+        "id": 2,
+        "name": "Lucas",
+        "email": "prueba@gmail.com",
+        "phone": "1280389",
+        "address": "Calle grande",
+        "position": "Norte",
+        "salary": 50,
+        "skills": "respect"
+    },
+    {
+        "id": 3,
+        "name": "Pedro",
+        "email": "j@gmail.com",
+        "phone": "1280389",
+        "address": "Calle grande",
+        "position": "Norte",
+        "salary": 80,
+        "skills": "respect"
+    },
+    {
+        "id": 4,
+        "name": "Maria",
+        "email": "j@gmail.com",
+        "phone": "1280389",
+        "address": "Calle grande",
+        "position": "Norte",
+        "salary": 30,
+        "skills": "respect"
+    }
+]
